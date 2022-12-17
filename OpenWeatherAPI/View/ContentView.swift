@@ -54,7 +54,7 @@ struct ContentView: View {
                     }
                 }
             } label: {
-                Text("Fresh")
+                Text("Update")
             }
 
         }
